@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+    <defs>
+        <linearGradient id="primary-accent" x1="0%" y1="0%" x2="100%" y2="100%">
+            <!-- var(--primary) #38bdf8 to var(--accent) #818cf8 -->
+            <stop offset="0%" stop-color="#38bdf8" />
+            <stop offset="100%" stop-color="#818cf8" />
+        </linearGradient>
+    </defs>
+    <rect width="512" height="512" rx="128" fill="#11151f" />
+    <text x="256" y="360" font-family="'Inter', -apple-system, sans-serif, 'JetBrains Mono', monospace" font-size="340" font-weight="800" fill="url(#primary-accent)" text-anchor="middle">A</text>
+</svg>
